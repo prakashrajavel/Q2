@@ -12,6 +12,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("Commit1");
-
+        System.out.println("Commit2");
     }
 }
