@@ -1,6 +1,10 @@
 public class Assignment {
     public String print()
     {
-        return "Test branch return String";
+        return "TestChild branch return String";
+    }
+    public int add(int a, int b)
+    {
+        return a+b;
     }
 }
